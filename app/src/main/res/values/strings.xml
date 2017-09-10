@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IOTFrame</string>
+
+    <string name="api_root">http://192.168.0.141:8080/iotframe/api/</string>
+    <string name="api_key">Xum1dRdsULyWvFCDvtpML1FA7bZO7koCclkEYZqwm3Y=</string>
+</resources>
